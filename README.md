@@ -1,5 +1,3 @@
----
-
 ## 📌 Project Description
 
 This program displays a menu that allows the user to choose between three different exercises:
@@ -61,5 +59,7 @@ Each question is implemented in a **separate Python module** and imported into t
 **Samin Rad**
 
 ---
+
 ✨ *Small practice, big brain energy* ✨
 
+---
