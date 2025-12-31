@@ -24,6 +24,8 @@ Each question is implemented in a **separate Python module** and imported into t
 
 ## 📂 Project Structure
 
+---
+
 .
 ├── HomeWork1_q1_SaminShahbaziRad.py   # Exercise 1: Rectangle calculations
 ├── HomeWork1_q2_SaminShahbaziRad.py   # Exercise 2: Multiplication tables
@@ -31,6 +33,7 @@ Each question is implemented in a **separate Python module** and imported into t
 ├── main.py                            # Main menu controller
 └── README.md                          # Project documentation
 
+---
 
 ## ▶️ How to Run
 
