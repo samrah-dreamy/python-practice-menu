@@ -24,16 +24,13 @@ Each question is implemented in a **separate Python module** and imported into t
 
 ## 📂 Project Structure
 
----
-
 .
-├── HomeWork1_q1_SaminShahbaziRad.py   # Rectangle area & perimeter
-├── HomeWork1_q2_SaminShahbaziRad.py   # Multiplication table
-├── HomeWork1_q3_SaminShahbaziRad.py   # Sum of even numbers
-├── main.py                            # Menu-driven program
-└── README.md
+├── HomeWork1_q1_SaminShahbaziRad.py   # Exercise 1: Rectangle calculations
+├── HomeWork1_q2_SaminShahbaziRad.py   # Exercise 2: Multiplication tables
+├── HomeWork1_q3_SaminShahbaziRad.py   # Exercise 3: Even number summation
+├── main.py                            # Main menu controller
+└── README.md                          # Project documentation
 
----
 
 ## ▶️ How to Run
 
