@@ -1,13 +1,5 @@
-"""
-2. Write a program to print the multiplication table of any number.
-سوال دوم تمرین اول - برنامه نویسی پیشرفته
-ثمین شهبازی راد - 14044143
-"""
-
 
 def print_the_multiplication():
-    print("------------------------------")
-    print("سوال دوم تمرین اول - برنامه نویسی پیشرفته")
     print("------------------------------")
     number_to_multiplication = 0
     range_end_number = 10

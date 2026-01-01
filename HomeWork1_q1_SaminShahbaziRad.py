@@ -1,13 +1,5 @@
-"""
-1. write a python program to calculate area and perimeter of a rectangle.
-سوال اول تمرین اول - برنامه نویسی پیشرفته
-ثمین شهبازی راد - 14044143
-"""
-
 
 def calculate_area_and_perimeter_of_a_rectangle():
-    print("------------------------------")
-    print("سوال اول تمرین اول - برنامه نویسی پیشرفته")
     print("------------------------------")
     rectangle_length, rectangle_width = 1, 1
     while True:
