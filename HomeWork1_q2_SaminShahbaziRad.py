@@ -19,12 +19,15 @@ def print_the_multiplication():
 
     while True:
         try:
+            print("Specify the range: from 1 up to which number? (Default is 10; you must enter a number):")
             range_end_number = int(input("بازه مورد نظر از 1 تا چه عددی میخواهید را تعیین کنید. (پیش فرض 10 است و باید یک عدد وارد کنید):\n") or 10)
         except ValueError:
             print("مقدار مورد نظر باید عدد طبیعی باشد")
+            print("The value must be a natural number.")
             continue
         else:
             print(f"بازه مورد نظر از 1 تا {range_end_number} با موفقیت تعیین شد")
+            print(f"The range from 1 to {range_end_number} was successfully set.")
             break
 
     print("------------------------------")
