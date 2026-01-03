@@ -5,8 +5,10 @@ def print_the_multiplication():
     range_end_number = 10
     while True:
         try:
+            print("Enter the desired item: ")
             number_to_multiplication = int(input("عدد مورد نظر را وارد کنید:\n"))
         except ValueError:
+            print("the value you entered should be float number")
             print("مقدار مورد نظر باید عدد طبیعی باشد")
             continue
         else:
